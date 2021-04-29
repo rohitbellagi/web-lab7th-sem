@@ -1,0 +1,73 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type="text/css" href="stylecss.css"?>
+<students>
+<student>
+	<name>
+	ROHIT D B
+	</name>
+	<age>
+	7th Sem
+	</age>
+	<usn>
+	4sf17is066
+	</usn>
+	<year>
+	2021
+	</year>
+	<branch>
+	ise
+	</branch>
+	<email>
+rohitbellagi2@gmail.com
+	</email>
+	<college>
+	SCEM
+	</college>
+</student>
+<student>
+	<name>
+	Bhavana
+	</name>
+	<age>
+	7th Sem
+	</age>
+	<usn>
+	4SF17036
+	</usn>
+	<year>
+	2021      
+	</year>
+	<branch>
+	CSE
+	</branch>
+	<email>
+	bhavana@gmail.com
+	</email>
+	<college>
+SCEM
+	</college>
+</student>
+<student>
+	<name>
+	Ayush
+	</name>
+	<age>
+	7th Sem
+	</age>
+	<usn>
+	4SF17IS055
+	</usn>
+	<year>
+	20222
+	</year>
+	<branch>
+	CSE
+	</branch>
+	<email>
+	ayush@gmail.com
+	</email>
+	<college>
+	SCEM
+	</college>
+</student>
+</students>
